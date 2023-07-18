@@ -1,7 +1,6 @@
 {
     "version": "0.2.0",
     "configurations": [
-    
         {
             "name": "Python: Flask",
             "type": "python",
@@ -10,7 +9,7 @@
             "env": {
                 "FLASK_APP": "${workspaceFolder}/app.py",
                 "FLASK_DEBUG": "1",
-                "STT_REGION": "<Your Service Region>",
+                "STT_REGION": "japaneast",
                 "STT_RESOURCE_ID": "/subscriptions/<Your Subscription GUID>/resourceGroups/<Your ResourceGroup Name>/providers/Microsoft.CognitiveServices/accounts/<Your Service Name>",
                 "TEXT_ANALYTICS_ENDPOINT": "https://<Your Service Name>.cognitiveservices.azure.com",
                 "AOAI_ENDPOINT": "https://<Your Service Name>.openai.azure.com",
