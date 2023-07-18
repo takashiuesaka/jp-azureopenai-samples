@@ -22,7 +22,9 @@
 				"ms-python.vscode-pylance",
 				"ms-ceintl.vscode-language-pack-ja",
 				"oderwat.indent-rainbow",
-				"PKief.material-icon-theme"
+				"PKief.material-icon-theme",
+				"ms-azuretools.vscode-azureappservice",
+				"mhutchie.git-graph"
 			]
 		}
 	}
